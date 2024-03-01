@@ -40,9 +40,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ISOURA-dev/ISOURA-dev/output/snake.svg" alt="Snake animation" />
-
-###
