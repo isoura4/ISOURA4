@@ -44,11 +44,3 @@
 <img src="https://raw.githubusercontent.com/ISOURA-dev/ISOURA-dev/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/9pf5nz1bii9lfa7ttu8po8n7v">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9pf5nz1bii9lfa7ttu8po8n7v&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
