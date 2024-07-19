@@ -26,7 +26,9 @@
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='syncthing' src='https://img.shields.io/badge/Syncthing-100000?style=flat&logo=syncthing&logoColor=FFFFFF&labelColor=0891D1&color=0891D1'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='thingiverse' src='https://img.shields.io/badge/Thingiverse-100000?style=flat&logo=thingiverse&logoColor=FFFFFF&labelColor=248BFB&color=248BFB'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='trello' src='https://img.shields.io/badge/Trello-100000?style=flat&logo=trello&logoColor=FFFFFF&labelColor=0052CC&color=0052CC'/></a>
-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='uptimekuma' src='https://img.shields.io/badge/Uptimekuma-100000?style=flat&logo=uptimekuma&logoColor=FFFFFF&labelColor=5CDD8B&color=5CDD8B'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='virtualbox' src='https://img.shields.io/badge/Virtualbox-100000?style=flat&logo=virtualbox&logoColor=FFFFFF&labelColor=183A61&color=183A61'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vmware' src='https://img.shields.io/badge/vmware-100000?style=flat&logo=vmware&logoColor=FFFFFF&labelColor=607078&color=607078'/></a>
 
 
 ---
