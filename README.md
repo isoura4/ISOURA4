@@ -4,8 +4,6 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pgmKEyqcpA) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@isoura_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/isoura_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isoura4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@isoura_vod) 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='crunchyroll' src='https://img.shields.io/badge/Crunchyroll-100000?style=flat&logo=crunchyroll&logoColor=FFFFFF&labelColor=F47521&color=F47521'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='reddit' src='https://img.shields.io/badge/Reddit-100000?style=flat&logo=reddit&logoColor=FFFFFF&labelColor=FF4500&color=FF4500'/></a>
 
 
 # 💻 Tech Stack:
