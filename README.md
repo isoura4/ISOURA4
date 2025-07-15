@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on randoms things<br>🌱 I’m currently learning Gdevelop 5, C++ and Python<br>💬 Ask me about everything you want<br>⚡ Fun fact I dont realy like codding but I make make app
+🔭 I’m currently working on randoms things<br>🌱 I’m currently learning Gdevelop 5, GDscript and Python<br>💬 Ask me about everything you want<br>⚡ Fun fact I dont realy like codding but I make make app
 
 
 ## 🌐 Socials:
