@@ -3,10 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pgmKEyqcpA) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@isoura_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/isoura_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@isoura_vod) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=Bluesky&logoColor=white)](https://bsky.app/profile/isoura.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/v6Ut5yBE57) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@isoura.4) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/isoura_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@isoura_vod) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=Bluesky&logoColor=white)](https://bsky.app/profile/isoura.bsky.social)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=isoura4&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
 <br clear="both">
